@@ -1,0 +1,5 @@
+package projetoAulaProduto.entities;
+
+public class Product {
+
+}

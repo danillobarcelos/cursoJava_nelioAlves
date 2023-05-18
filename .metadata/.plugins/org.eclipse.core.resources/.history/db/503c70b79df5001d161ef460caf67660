@@ -1,0 +1,25 @@
+package exercicio03.entities;
+
+public class Student {
+	public String name;
+	public double grade1;
+	public double grade2;
+	public double grade3;
+	
+	public double finalGrade() {
+		return grade1 + grade2 + grade3;
+	}
+	
+	public void finalResult() {
+		if (finalGrade() >= 60) {
+			System.out.println("FINAL GRADE: " + finalGrade());
+			System.out.println("PASS");
+		} else {
+			double missing = 60 - finalGrade();
+			
+			System.out.println("FINAL GRADE: " + finalGrade());
+			System.out.println("FAILED");
+			System.out.println("MISSING " + missing + " POINTS");
+		}
+	}
+}
