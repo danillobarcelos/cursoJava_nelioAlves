@@ -3,9 +3,9 @@
     <fullyQualifiedTypeName name="projetoAulaProduto.entities.Product"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="exercicio01.entities.Rectangle"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="exercicio02.entities.Employee"/>
     <fullyQualifiedTypeName name="exercicio04.entities.CurrencyConverter"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
